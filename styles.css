@@ -1,0 +1,7 @@
+.stApp{
+    background-image: url("data:image/webp;base64,{background_image}");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
